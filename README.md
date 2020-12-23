@@ -9,5 +9,5 @@ The Passwords directory will hold a number of password lists that can be used by
 - Password lists containing the count are located in the "withcount" folder.
 - Lists over 100Mb have been compressed.
 
-- [ ! ] unzip Top258Million-probable.zip to get the whole file.
-- [ ! ] unzip GMail.zip to get the whole file
+        [ ! ] unzip Top258Million-probable.zip to get the whole file.
+        [ ! ] unzip GMail.zip to get the whole file
